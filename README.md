@@ -9,7 +9,7 @@ SignalsPath is a modern data analytics company offering full-service data intell
 ##  Live Preview
 
 🌐 [https://signalspath.crytpo-streets.com]
-
+![Homepage Screenshot](./datacompany.png)
 ---
 
 ##  Tech Stack
