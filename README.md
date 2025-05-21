@@ -51,3 +51,5 @@ SignalsPath is a modern data analytics company offering full-service data intell
 ###  Resume Upload
 
 - Accepts `.pdf .doc`,
+
+### Public code is not available at this time. 
