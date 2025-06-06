@@ -1,14 +1,14 @@
 # DataCompany
 
-# 📊 SignalsPath — Data Analytics Company Website
+# 📊 Intersite Data — Data Analytics Company Website
 
-SignalsPath is a modern data analytics company offering full-service data intelligence and automation. This repository contains both the **frontend** (React + Vite) and **backend** (Go + Gin + MySQL) codebases.
+Intersite Data is a modern data analytics company offering full-service data intelligence and automation. This repository contains both the **frontend** (React + Vite) and **backend** (Go + Gin + MySQL) codebases.
 
 ---
 
 ##  Live Preview
 
-🌐 [https://signalspath.crytpo-streets.com]
+🌐 [https://intersite-data.com]
 ![Homepage Screenshot](./datacompany.png)
 ---
 
@@ -53,3 +53,7 @@ SignalsPath is a modern data analytics company offering full-service data intell
 - Accepts `.pdf .doc`,
 
 ### Public code is not available at this time. 
+
+### MYSQL Table creations: 
+
+
