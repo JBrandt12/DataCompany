@@ -54,6 +54,6 @@ Intersite Data is a modern data analytics company offering full-service data int
 
 ### Public code is not available at this time. 
 
-### MYSQL Table creations: 
+
 
 
